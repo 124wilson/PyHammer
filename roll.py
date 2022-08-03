@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Aug  3 12:53:42 2022
-
+Script contains functions that will be used in bigger
+Warhammer RPG project
 @author: Mikuś
 """
 from random import randint
@@ -23,6 +24,8 @@ def atr_roll(atribute, dice=100):
         print('sucess')
     else:
         print('fail')
+        
+
 
     
         
